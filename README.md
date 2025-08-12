@@ -1,6 +1,6 @@
 # Multimodal AI for Ship Detection in Satellite Imagery
 
-This repository contains the source code for a project focused on the comparative analysis of YOLO architectures for ship detection in satellite imagery. 
+This repository contains the source code for a project focused on the comparative analysis of YOLO architectures for ship detection in satellite imagery (Sentinel-1 SAR and Sentinel-2 Optical). 
 
 ## Project Objectives
 
