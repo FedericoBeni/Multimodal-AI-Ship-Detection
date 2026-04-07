@@ -28,12 +28,12 @@ This project explores and compares modern YOLO architectures for ship detection 
 
 Composite dataset (HS3-S2) combining 6 open-source sources:
 
-- SDDCB  
-- SSDD  
-- HRSID  
-- S2 Detection  
-- S2 FC  
-- SDAI  
+- [SDDCB](https://github.com/CAESAR-Radi/SAR-Ship-Dataset)
+- [SSDD](https://drive.google.com/file/d/1grDw3zbGjQKYPjOxv9-h4WSUctoUvu1O/view)
+- [HRSID](https://github.com/chaozhong2010/HRSID)
+- [S2 Detection](https://universe.roboflow.com/sentinel2/sentinel-2-ship_detection)
+- [S2 FC](https://huggingface.co/mayrajeo/marine-vessel-detection-yolov8)
+- [SDAI](https://www.kaggle.com/datasets/andrewmvd/ship-detection) 
 
 All images converted to **single-channel (grayscale)** to:
 - emphasize shape and contrast features  
@@ -82,11 +82,4 @@ All images converted to **single-channel (grayscale)** to:
 
 - [Galdelli et al. (2025)](https://www.sciencedirect.com/science/article/pii/S0167865525000649)
 
-### Datasets (HS3-S2 benchmark)
 
-- [SDDCB](https://github.com/CAESAR-Radi/SAR-Ship-Dataset)
-- [SSDD](https://drive.google.com/file/d/1grDw3zbGjQKYPjOxv9-h4WSUctoUvu1O/view)
-- [HRSID](https://github.com/chaozhong2010/HRSID)
-- [S2 Detection](https://universe.roboflow.com/sentinel2/sentinel-2-ship_detection)
-- [S2 FC](https://huggingface.co/mayrajeo/marine-vessel-detection-yolov8)
-- [SDAI](https://www.kaggle.com/datasets/andrewmvd/ship-detection)
